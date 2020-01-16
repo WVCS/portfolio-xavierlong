@@ -1,9 +1,39 @@
-<!DOCTYPE html>
-<html>
+<body style="background-color:powderblue;">
+  <html>
+<head>
+<style>
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 20px 30px;
+  text-decoration:none ;
+}
+
+li a:hover {
+  background-color: #111;
+}
+  </style>
 
 
-<p> Project Page </p>
 
-
-
-</html>
+<ul>
+  <li><a class="active" href="info.hmtl">Home</a></li>
+  <li><a href="index.html">Lil Uzi</a></li>
+  <li><a href="app.html">App</a></li>
+</ul>
+ <h1 style="text-align:center;">Xavier's Life</h1>
+  <p style="center">
+  <p style="font-family:courier;">  Welcome to my website, my name is Xavier and I am seventeen years old. I am a sophisticated yet fun person that likes to be with my friends and laugh. I am always trying to make people laugh and trying to live my life to the fullest. Some of my likes are sports, music, nature, food, youtube, video games, and my friends. If I’m not hanging out with my friends I am either watching youtube or watching sports. I am living my best life and always trying to learn and become the best version of myself.  </p>
